@@ -1,0 +1,63 @@
+#caja-titulo{
+    background-image: url(imagen/imagentitulo.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+#caja-titulo h1{
+    padding-top: 100px;
+    font-size: 90px;
+    font: small-caps 500%/200% serif;
+    text-align: center;
+    color: FFF617;
+}
+#p1{
+    background-color: BEFF04;
+    font: small-caps 100%/200% serif;
+    font-size: 20;
+}
+#imagen1{
+    display:block;
+    margin:auto;
+    background-color: FFF91C;
+    border:10px solid green;
+}
+body{
+    background-color: black;
+}
+#p2{
+    background-color: 5DE804;
+    font: small-caps 100%/200% serif;
+    font-size: 20;
+}
+#titulos{
+    padding-top: 100px;
+    font-size: 30px;
+    font: small-caps 200%/200% serif;
+    text-align: center;
+    color: FFF617;
+}
+#p4{
+    background-color: 04FF89;
+    font: small-caps 100%/200% serif;
+    font-size: 20;
+}
+#p5{
+     background-color: 04FF89;
+    font: small-caps 100%/200% serif;
+    font-size: 20;
+}
+#p3{ background-color: 13FF09;
+    font: small-caps 100%/200% serif;
+    font-size: 20;
+}
+#p6{ background-color: 1DEE32;
+    font: small-caps 100%/200% serif;
+    font-size: 20;
+}
+#p7{
+background-color:chartreuse;
+}
+#p8{
+    background-color: chartreuse;
+}
